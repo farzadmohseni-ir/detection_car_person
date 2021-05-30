@@ -1,6 +1,6 @@
 # detection_car_person
 
-This project is about machine and human diagnostics . *(Due to the large size of the modules, it is stored in Google Drive , [Download⚠](https://drive.google.com/drive/folders/1nmznxyKXHwlwXKKUMhAgqStWWi5UjuCk?usp=sharing))*
+This project is about machine and human diagnostics . *( Due to the large size of the modules, it is stored in Google Drive , [Download](https://drive.google.com/drive/folders/1nmznxyKXHwlwXKKUMhAgqStWWi5UjuCk?usp=sharing) )*
 
 Modules and data are taken from the following websites :
 
@@ -29,19 +29,19 @@ pip install -r requirements.txt
 
 The project consists of three parts :
 
-1. The first part is about recognizing the vehicles from the video file .
+1. The first part is about recognizing the vehicles from the video file . *[(Demo Link)](https://www.screencast.com/t/ZzoyQv3B)*
 
    ```python
    python3 detection_car.py
    ```
 
-2. The second part is about recognizing humans from a video file .
+2. The second part is about recognizing humans from a video file . *[(Demo Link)](https://www.screencast.com/t/fSLlnKR543Qy)*
 
    ```python
    python3 detection_person.py
    ```
 
-3. The third part is about recognizing human from webcam .
+3. The third part is about recognizing human from webcam . *[(Demo Link)](https://prntscr.com/13l38cm)*
 
    ```python
    python3 webcam_person.py
