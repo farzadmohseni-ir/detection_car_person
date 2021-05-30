@@ -1,6 +1,6 @@
 # detection_car_person
 
-This project is about machine and human diagnostics .
+This project is about machine and human diagnostics . *(Due to the large size of the modules, it is stored in Google Drive , [Download ⚠](https://drive.google.com/drive/folders/1nmznxyKXHwlwXKKUMhAgqStWWi5UjuCk?usp=sharing) )*
 
 Modules and data are taken from the following websites :
 
@@ -48,16 +48,4 @@ The project consists of three parts :
    ```
 
 
-
-**Notice :** The appearance of the project thigh will be as follows :
-
-| *Put your file in the relevant directory to get the output from it* | *Creating the final file "` the_output.avi `" may take time, so be patient. (It depends more on the power of your GPU)* |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Input](C:/Users/farza/Downloads/Compressed/detection_car_person/Run_Example/Input.jpg) | ![How_To_Run](C:/Users/farza/Downloads/Compressed/detection_car_person/Run_Example/How_To_Run.jpg) |
-
-
-
-|                      `detection_car.py`                      |                    `detection_person.py`                     |                      `webcam_person.py`                      |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![car](C:/Users/farza/Downloads/Compressed/detection_car_person/Run_Example/car.gif) | ![person](C:/Users/farza/Downloads/Compressed/detection_car_person/Run_Example/person.gif) | <img src="C:/Users/farza/Downloads/Compressed/detection_car_person/Run_Example/webcam_person.jpg" alt="webcam_person" style="zoom: 50%;" /> |
 
