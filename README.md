@@ -1,6 +1,6 @@
 # detection_car_person
 
-This project is about machine and human diagnostics . *(Due to the large size of the modules, it is stored in Google Drive , [Download ⚠](https://drive.google.com/drive/folders/1nmznxyKXHwlwXKKUMhAgqStWWi5UjuCk?usp=sharing) )*
+This project is about machine and human diagnostics . *( Due to the large size of the modules, it is stored in Google Drive , [Download ⚠](https://drive.google.com/drive/folders/1nmznxyKXHwlwXKKUMhAgqStWWi5UjuCk?usp=sharing) )*
 
 Modules and data are taken from the following websites :
 
