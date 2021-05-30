@@ -47,7 +47,7 @@ pip install -r requirements.txt
 1. The first part is about recognizing the vehicles from the video file . 
 
    ```python
-   python3 detection_car.py
+   python detection_car.py
    ```
    
    https://user-images.githubusercontent.com/57835828/120105103-c1623680-c16c-11eb-85a9-4801bd967ecd.mp4
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 2. The second part is about recognizing humans from a video file . 
 
    ```python
-   python3 detection_person.py
+   python detection_person.py
    ```
    
    https://user-images.githubusercontent.com/57835828/120105972-6d595100-c170-11eb-9579-302477d86b5d.mp4
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 3. The third part is about recognizing human from webcam . 
 
    ```python
-   python3 webcam_person.py
+   python webcam_person.py
    ```
    
    ![webcam_person](https://user-images.githubusercontent.com/57835828/120105606-e0fa5e80-c16e-11eb-80aa-7097639b624f.jpg)
